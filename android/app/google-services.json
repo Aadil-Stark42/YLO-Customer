@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "864988854085",
+    "firebase_url": "https://ylo-live.firebaseio.com",
+    "project_id": "ylo-live",
+    "storage_bucket": "ylo-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864988854085:android:a39744b162171746c7f02c",
+        "android_client_info": {
+          "package_name": "com.ylo.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864988854085-31qqva698okhkplqjul5eatreq3fm52f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHsv5rIqK4TkD9MwR5Dj2tAuqmjh_GTok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864988854085-31qqva698okhkplqjul5eatreq3fm52f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864988854085:android:ae4db847141afd64c7f02c",
+        "android_client_info": {
+          "package_name": "com.ylo.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864988854085-31qqva698okhkplqjul5eatreq3fm52f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHsv5rIqK4TkD9MwR5Dj2tAuqmjh_GTok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864988854085-31qqva698okhkplqjul5eatreq3fm52f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
